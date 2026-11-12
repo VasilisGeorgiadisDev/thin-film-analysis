@@ -1,0 +1,13 @@
+data/**
+!data/*/
+!data/*/README.md
+!data/*/EX1/
+!data/*/EX1/**
+!data/*/EX2/
+!data/*/EX2/**
+results/
+samples.xlsx
+__pycache__/
+*.pyc
+~$*
+.DS_Store
