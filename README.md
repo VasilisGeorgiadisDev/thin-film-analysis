@@ -1,4 +1,7 @@
-# Thin-film analysis
+# Thin-film analysis-BSc thesis
+
+Developed for a BSc thesis on Li₄Ti₅O₁₂ electrochromic films at the
+Department of Physics, University of Patras. 
 
 Automated analysis of electrochemical and optical measurements on thin films.
 Raw instrument files go in; Excel workbooks with ready-made, native Excel charts
@@ -12,8 +15,6 @@ come out.
 | Transmittance | PerkinElmer `.asc` spectra | %T at 550 nm for every spectrum, in one `.dat` table |
 | Film thickness | stylus profilometer `.dat` scans | thickness, with the measured window drawn on every profile |
 
-Developed for a diploma thesis on Li₄Ti₅O₁₂ electrochromic films at the
-Department of Physics, University of Patras.
 
 **Runs on Windows** (10 or 11). It has not been tested on macOS or Linux.
 
