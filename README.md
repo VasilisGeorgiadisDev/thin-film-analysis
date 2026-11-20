@@ -174,6 +174,11 @@ reader.
 
 ---
 
+## Acknowledgements
+
+I thank my thesis supervisor, Assistant Professor Georgios Syrrokostas, and PhD candidate
+Georgios Rellias (Department of Physics, University of Patras) for their guidance during my thesis.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
